@@ -16,11 +16,11 @@ public class editor {
     }
 
     public void openFile() {
-
+        man.notifyAdd("file open");
     }
 
     public void saveFile(){
-
+        man.notifyAdd("file close");
     }
 
 }
