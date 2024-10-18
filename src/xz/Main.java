@@ -17,6 +17,8 @@ public class Main {
         }
         catch(InputMismatchException e) {
             System.err.println("Incorrect data entry type");
+        } finally {
+            System.out.println("Always output");
         }
 
     }
