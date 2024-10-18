@@ -1,8 +1,6 @@
 package exe;
 
-import java.util.Scanner;
-
-public class Main
+public class MainList
 {
     public static void main(String[] args)
     {
