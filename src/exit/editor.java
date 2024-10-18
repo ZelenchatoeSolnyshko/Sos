@@ -15,12 +15,13 @@ public class editor {
         this.man = man;
     }
 
-    public void openFile() {
+    /*public void openFile() {
+        EventManager.notifyAll("File open");
 
     }
 
     public void saveFile(){
-
-    }
+        EventManager.notifyAll("File close");
+    }*/
 
 }

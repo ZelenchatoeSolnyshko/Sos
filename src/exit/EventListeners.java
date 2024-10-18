@@ -1,6 +1,5 @@
 package exit;
 
 public interface EventListeners {
-    void update();
-
+    void update(String event);
 }
